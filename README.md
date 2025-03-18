@@ -32,4 +32,3 @@ Hi there! I'm SivaJothi A 👋😄
 📌 Advanced Data Visualization & Business Intelligence 📊
 📌 Machine Learning & AI Models 🤖
 📌 Scalable Web Applications using MERN Stack
-
